@@ -1,0 +1,1 @@
+// some javacript functions
